@@ -6,12 +6,13 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-010        |
 | TeamName    |         CRUD           |
-| Captain     |        Liam Li         |
-| Captain     |    zl127@illinois.edu  |
-| Member1     |        Yifan Zhong     |
-| Member1     |  yzhong32@illinois.edu |
-| Member2     |     Nimit Kapadia      |
-| Member2     |  nimithk2@illinois.edu |
+| Captain     |     Nimit Kapadia      |
+| Captain     |  nimithk2@illinois.edu |
+| Member1     |        Liam Li         |
+| Member1     |    zl127@illinois.edu  |
+| Member2     |        Yifan Zhong     |
+| Member2     |  yzhong32@illinois.edu |
+
 
 ## Project Information
 
